@@ -1,2 +1,2 @@
-# tonics-widget-module
+# Tonics Widget Module
 Contains Tonics Widget Module Releases
